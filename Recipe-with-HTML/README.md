@@ -7,8 +7,11 @@ The recipe should have a primary heading of "Magii Recipe", and it should be div
 The ingredients are an unordered list with the following contents:
 
 • Magii
+
 • Sauce
+
 • Salt
+
 • Water
 
 The instructions are an ordered list with the following contents:
